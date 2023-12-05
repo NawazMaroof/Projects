@@ -1,0 +1,3 @@
+Hello this my first GIT Bash file
+To store the file from git to into GitHub
+
